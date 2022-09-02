@@ -1,0 +1,1354 @@
+.header-class{
+    width: 100%;
+    height: 80px;
+    background-color: black;
+    float: left;
+    position: fixed;
+    z-index: 1000;
+}
+.img{
+    padding-top: 25px;
+    padding-left: 14px;
+    float: left;
+}
+.img-spec:hover{
+    cursor: pointer;
+}
+.img-spec{
+    height: 18px;
+    width: 130px;
+
+}
+.links:hover{
+    background-color: #333;
+    cursor: pointer;
+}
+.links{
+    float: left;
+    color: #FFFFFF;
+    font-family: sans-serif;
+    font-size: 14px;
+    margin-left: 25px;
+    margin-top: 30px;
+}
+.left-bar1:hover{
+    background-color: #212121;
+    cursor: pointer;
+}
+.left-bar1{
+    float: left;
+    color: #FFFFFF;
+    font-family: sans-serif;
+    font-size: 12px;
+    margin-left: 9px;
+    margin-top: 25px;
+    text-align: left;
+    width: 60px;
+    line-height: 1.2;
+}
+.icon1{
+    height: 13px;
+    float: left;
+    width: 10px;
+    margin-top: 32px;
+    margin-left: 30px;
+}
+.left-bar2:hover{
+    background-color: #212121;
+    cursor: pointer;
+}
+.left-bar2{
+    float: left;
+    color: #FFFFFF;
+    font-family: sans-serif;
+    font-size: 12px;
+    margin-left: 9px;
+    margin-top: 25px;
+    text-align: left;
+    width: 60px;
+    line-height: 1.2;
+}
+.left-bar3:hover{
+    background-color: #212121;
+    cursor: pointer;
+}
+.left-bar3{
+    float: left;
+    color: #FFFFFF;
+    font-family: sans-serif;
+    font-size: 12px;
+    margin-left: 9px;
+    margin-top: 25px;
+    text-align: left;
+    width: 60px;
+    line-height: 1.2;
+}
+.line{
+    float: left;
+    color: white;
+    font-size: 22px;
+    font-weight: 100;
+    margin-left: 70px;
+    margin-top: 23px;
+}
+.img1{
+    width: 100%;
+    float: left;
+    margin-top: 80px;
+}
+.left-text-img{
+    height: 230px;
+    float: left;
+    margin-top: -335px;
+    margin-left: 18px;
+    width: 500px;
+    font-family: unset;
+    text-align: center;
+}
+.sentence-left{
+    float: left;
+    margin-top: -275px;
+    padding-left: 15px;
+    padding-right: 20px;
+    text-align: center;
+    color: #FFFFFF;
+    font-family: unset;
+    font-size: 30px;
+    font-weight: 700;
+    transform: scale(.8, 1);
+    line-height: 30px;
+    text-transform: uppercase;
+}
+.button{
+    float: left;
+    background-color: #d50000;
+    border-radius: 2px;
+    border: none;
+    font-family: unset;
+    font-size: 12px;
+    font-weight: 700;
+    color: #FFFFFF;
+    transform: scale(.8, 1);
+    text-transform: uppercase;
+    height: 30px;
+    width: 170px;
+}
+button:hover{
+    background-color: #990000;
+}
+.buttons{
+    float: left;
+    margin-top: -162px;
+    margin-left: 110px;
+}
+.button1{
+    float: left;
+    background-color: #d50000;
+    border-radius: 2px;
+    border: none;
+    font-family: unset;
+    font-size: 12px;
+    font-weight: 700;
+    color: #FFFFFF;
+    transform: scale(.8, 1);
+    text-transform: uppercase;
+    height: 30px;
+    width: 140px;
+}
+.cars{
+    width: 100%;
+    float: left;
+    height: 500px;
+}
+.performance-text{
+    float: left;
+    margin-top: 75px;
+    margin-left: 300px;
+    font-family: unset;
+    font-size: 45px;
+    font-weight: 700;
+    color: black;
+    transform: scale(.6, .8);
+}
+.img-vehicles{
+    float: left;
+    padding: 45px;
+    width: 100%;
+    height: 300px;
+}
+.img-charger{
+    float: left;
+    width: 410px;
+}
+.img-challenger{
+    float: left;
+    width: 410px;
+}
+.img-durango{
+    float: left;
+    width: 410px;
+}
+.price{
+    float: left;
+    text-align: center;
+    font-family: unset;
+    font-size: 22px;
+    font-weight: 700;
+    color: black;
+    transform: scale(.5, .7);
+    margin-left: 150px;
+}
+.price1{
+    float: left;
+    text-align: center;
+    font-family: unset;
+    font-size: 22px;
+    font-weight: 700;
+    color: black;
+    transform: scale(.5, .7);
+    margin-left: 250px;
+}
+.price2{
+    float: left;
+    text-align: center;
+    font-family: unset;
+    font-size: 22px;
+    font-weight: 700;
+    color: black;
+    transform: scale(.5, .7);
+    margin-left: 250px;
+}
+.img-banner{
+    float: left;
+    width: 100%;
+    margin-top: 80px;
+}
+.award-text{
+    float: left;
+    text-align: center;
+    font-family: unset;
+    font-size: 35px;
+    font-weight: 700;
+    color: #FFF;
+    transform: scale(.5, .7);
+    margin-left: 90px;
+    margin-top: -200px;
+    text-transform: uppercase;   
+}
+.award-text1{
+    float: left;
+    text-align: center;
+    font-family: unset;
+    font-size: 22px;
+    font-weight: 600;
+    color: #FFF;
+    transform: scale(.5, .7);
+    margin-left: 150px;
+    margin-top: -125px;
+}
+.bro-muscle{
+    float: left;
+    margin-left: 310px;
+    font-family: unset;
+    font-size: 45px;
+    font-weight: 700;
+    color: black;
+    transform: scale(.6, .8);
+}
+.img-set{
+    float: left;
+}
+.charger-img-set{
+    float: left;
+    width: 300px;
+    margin-left: 200px;
+}
+.challenger-img-set{
+    float: left;
+    width: 300px;
+    margin-left: 20px;
+}
+.durango-img-set{
+    float: left;
+    width: 300px;
+    margin-left: 20px;
+}
+.down-text-1{
+    float: left;
+    text-align: center;
+    height: 50px;
+    width: 250px;
+    font-family: unset;
+    font-size: 18px;
+    font-weight: 600;
+    color: black;
+    transform: scale(.7, .8);
+    margin-left: 225px;
+    margin-top: 20px;
+}
+.down-text-2{
+    float: left;
+    text-align: center;
+    height: 50px;
+    width: 250px;
+    font-family: unset;
+    font-size: 18px;
+    font-weight: 600;
+    color: black;
+    transform: scale(.7, .8);
+    margin-left: 70px;
+    margin-top: 20px;
+}
+.down-text-3{
+    float: left;
+    text-align: center;
+    height: 50px;
+    width: 250px;
+    font-family: unset;
+    font-size: 18px;
+    font-weight: 600;
+    color: black;
+    transform: scale(.7, .8);
+    margin-left: 70px;
+    margin-top: 20px;
+}
+.down-words{
+    float: left;
+    text-align: center;
+    height: 50px;
+    width: 315px;
+    font-family: unset;
+    font-size: 18px;
+    font-weight: 600;
+    color: rgb(53, 53, 53);
+    transform: scale(.7, .8);
+    margin-left: 190px;
+    margin-top: 15px;
+}
+.down-words1{
+    float: left;
+    text-align: center;
+    height: 50px;
+    width: 335px;
+    font-family: unset;
+    font-size: 18px;
+    font-weight: 600;
+    color: rgb(53, 53, 53);
+    transform: scale(.7, .8);
+    margin-top: 15px;
+}
+.down-words2{
+    float: left;
+    text-align: center;
+    height: 50px;
+    width: 320px;
+    font-family: unset;
+    font-size: 18px;
+    font-weight: 600;
+    color: rgb(53, 53, 53);
+    transform: scale(.7, .8);
+    margin-top: 15px;
+}
+.button3{
+    float: left;
+    background-color: #d50000;
+    border-radius: 2px;
+    border: none;
+    font-family: unset;
+    font-size: 14px;
+    font-weight: 700;
+    color: #FFFFFF;
+    transform: scale(.8, 1);
+    text-transform: uppercase;
+    height: 40px;
+    width: 250px;
+    margin-left: 65px;   
+}   
+.buttons-down{
+    float: left;
+    margin-top: 25px;
+    padding-left: 170px;
+}
+.racer-img{
+    float: left;
+    width: 100%;
+    margin-top: 60px;
+}
+.racer-img-logo{
+    float: left;
+    margin-left: 850px;
+    margin-top: -370px;
+}
+.racer-img-text{
+    float: left;
+    text-transform: uppercase;
+    text-align: center;
+    font-family: unset;
+    font-size: 50px;
+    font-weight: 700;
+    color: #FFF;
+    transform: scale(.5, .7);
+    margin-left: 670px;
+    margin-top: -340px;
+    width: 795px;
+    line-height: 1.1;
+}
+.racer-img-text1{
+    text-align: center;
+    font-family: unset;
+    font-size: 14px;
+    color: #FFF;
+    margin-left: 876px;
+    margin-top: -190px;
+    width: 380px;
+    line-height: 1.5;
+    float: left;
+    font-weight: 400;
+}
+.buttons-down-1{
+    float: left;
+    width: 20px;
+}
+.buttons-down-11{
+    float: left;
+    border-radius: 2px;
+    border-color: #FFF;
+    font-family: unset;
+    font-size: 14px;
+    font-weight: 700;
+    color: #FFFFFF;
+    transform: scale(.8, 1);
+    text-transform: uppercase;
+    height: 40px;
+    width: 152px;
+    margin-left: 900px;
+    margin-top: -115px;
+    background-color: black;
+}
+.buttons-down-12{
+    float: left;
+    border-radius: 2px;
+    border-color: #FFF;
+    font-family: unset;
+    font-size: 14px;
+    font-weight: 700;
+    color: #FFFFFF;
+    transform: scale(.8, 1);
+    text-transform: uppercase;
+    height: 40px;
+    width: 195px;
+    margin-left: 1040px;
+    margin-top: -115px;
+    background-color: black;
+}
+.first-image-down{
+    margin-top: 30px;
+    float: left;
+    width: 425px;
+    margin-left: 238px;
+}
+.second-image-down{
+    margin-top: 30px;
+    float: left;
+    width: 425px;
+    margin-left: 25px;
+}
+.dodge-muscle-text{
+    float: left;
+    text-align: center;
+    height: 50px;
+    width: 250px;
+    font-family: unset;
+    font-size: 18px;
+    font-weight: 600;
+    color: black;
+    transform: scale(.7, .8);
+    margin-left: 325px;
+    margin-top: 15px;
+    text-transform: uppercase;
+}
+.dodge-muscle-text1{
+    float: left;
+    float: left;
+    text-align: center;
+    height: 50px;
+    width: 250px;
+    font-family: unset;
+    font-size: 18px;
+    font-weight: 600;
+    color: black;
+    transform: scale(.7, .8);
+    margin-left: 198px;
+    margin-top: 15px;
+    text-transform: uppercase;
+}
+.para-under-1{
+    float: left;
+    text-align: center;
+    font-family: unset;
+    font-size: 14.5px;
+    color: black;
+    margin-left: 236px;
+    width: 430px;
+    line-height: 1.5;
+    float: left;
+    font-weight: 400;
+}
+.para-under-2{
+    float: left;
+    text-align: center;
+    font-family: unset;
+    font-size: 14.5px;
+    color: black;
+    margin-left: 24px;
+    width: 430px;
+    line-height: 1.5;
+    float: left;
+    font-weight: 400;
+}
+.button-para-under{
+    float: left;
+    border-color: #d50000;
+    background-color: #FFF;
+    border-radius: 2px;
+    font-family: unset;
+    font-size: 15px;
+    font-weight: 700;
+    color: #d50000;
+    transform: scale(.7, 1);
+    text-transform: uppercase;
+    height: 40px;
+    width: 250px;
+    margin-left: 326px;
+    margin-top: 25px;
+}
+.button-para-under:hover{
+    background-color: #ececec;
+}
+.button1-para-under{
+    float: left;
+    border-color: #d50000;
+    background-color: #FFF;
+    border-radius: 2px;
+    font-family: unset;
+    font-size: 15px;
+    font-weight: 700;
+    color: #d50000;
+    transform: scale(.7, 1);
+    text-transform: uppercase;
+    height: 40px;
+    width: 250px;
+    margin-left: 205px;
+    margin-top: 25px;
+}
+.button1-para-under:hover{
+    background-color: #ececec;
+}
+.q-image{
+    float: left;
+    width: 100%;
+    margin-top: 60px;
+}
+.amazon-img{
+    float: left;
+    margin-top: -287px;
+    margin-left: 155px;
+}
+.amazon-img-text{
+    float: left;
+    text-align: center;
+    height: 50px;
+    width: 440px;
+    font-family: sans-serif;
+    font-size: 18px;
+    color: #FFFF;
+    transform: scale(.8, .8);
+    margin-left: 12px;
+    margin-top: -230px;
+}
+.button-amazon{
+    float: left;
+    color: #FFF;
+    border-color: #FFF;
+    background-color: black;
+    margin-top: -150px;
+    margin-left: 130px;
+    width: 200px;
+    height: 40px;
+    font-size: 14px;
+    transform: scale(.7, 1);
+    text-transform: uppercase;
+    font-weight: 700;
+}
+.bring-the-dealer{
+    float: left;
+    margin-left: 240px;
+    margin-top: 28px;
+    font-family: unset;
+    font-size: 45px;
+    font-weight: 700;
+    color: black;
+    transform: scale(.6, .8);
+    text-transform: uppercase;   
+}
+.e-shop-img{
+    float: left;
+    width: 100%;
+    margin-top: 25px;
+}
+.e-shop-img-1{
+    float: left;
+    margin-top: -310px;
+    margin-left: 200px;
+}
+.e-img-para{
+    float: left;
+    margin-top: -225px;
+    margin-left: 14px;
+    color: #FFF;
+    text-align: center;
+    width: 500px;
+    font-weight: 400;
+    font-size: 18px;
+    transform: scale(.8, .85);
+    line-height: 24px;
+}
+.button-e-shop{
+    float: left;
+    border-radius: 2px;
+    border-color: #FFF;
+    font-family: unset;
+    font-size: 14px;
+    font-weight: 700;
+    color: #FFFFFF;
+    transform: scale(.8, 1);
+    text-transform: uppercase;
+    height: 38px;
+    width: 180px;
+    margin-top: -145px;
+    margin-left: 70px;
+    background-color: black;
+}
+.button-e-shop1{
+    float: left;
+    border-radius: 2px;
+    border-color: #FFF;
+    font-family: unset;
+    font-size: 14px;
+    font-weight: 700;
+    color: #FFFFFF;
+    transform: scale(.8, 1);
+    text-transform: uppercase;
+    height:38px;
+    width: 230px;
+    margin-top: -145px;
+    margin-left: 232px;
+    background-color: black;
+}
+.badge-img{
+    float: left;
+    margin-top: 30px;
+    margin-left: 604px;
+}
+.value-text{
+    float: left;
+    margin-top: 12px;
+    margin-left: 228px;
+    font-family: "Barlow Condensed","Roboto",sans-serif;
+    font-size: 2.85714rem;
+    line-height: 1;
+    font-weight: 600;
+    color: #333;
+    letter-spacing: .05rem;
+    transform: scale(.6, .8);
+}
+.badge-para{
+    float: left;
+    width: 750px;
+    margin-left: 310px;
+    text-align: center;
+    color: grey;
+    font-weight: 400;
+    font-size: 18px;
+    transform: scale(.8, .85);
+    line-height: 24px;
+}
+.button-see{
+    float: left;
+    background-color: #FFF;
+    border-color: #d50000;
+    border-radius: 2px;
+    font-family: unset;
+    font-size: 15px;
+    font-weight: 700;
+    color: #d50000;
+    transform: scale(.7, 1);
+    text-transform: uppercase;
+    height: 40px;
+    width: 320px;
+    margin-left: 520px;
+    margin-top: 25px;
+}
+.button-see:hover{
+    background-color: #ececec;
+}
+.second-last-footer{
+    float: left;
+    background-color: #212121;
+    width: 100%;
+    height: 120px;
+    margin-top: 30px;
+}
+.final-footer{
+    float: left;
+    width: 100%;
+    height: 1250px;
+    background-color: black;
+}
+.drivability-img{
+    float: left;
+    margin-left: 130px;
+    margin-top: 45px;
+}
+.drivability-img:hover{
+    cursor: pointer;
+}
+.contact-footer:hover{
+    cursor: pointer;
+    text-decoration: underline;
+}
+.contact-footer{
+    float: left;
+    color: #FFF;
+    margin-top: 47px;
+    margin-left: 45px;
+    font-size: 17px;
+    transform: scale(.8,.9);
+}
+.site-footer:hover{
+    cursor: pointer;
+    text-decoration: underline;
+}
+.site-footer{
+    float: left;
+    color: #FFF;
+    margin-top: 47px;
+    margin-left: 30px;
+    font-size: 17px;
+    transform: scale(.8,.9);
+}
+.career-footer:hover{
+    cursor: pointer;
+    text-decoration: underline;
+}
+.career-footer{
+    float: left;
+    color: #FFF;
+    margin-top: 47px;
+    margin-left: 35px;
+    font-size: 17px;
+    transform: scale(.8,.9);
+}
+.globe-footer{
+    float: left;
+    color: #FFF;
+    margin-top: 47px;
+    margin-left: 40px;
+    font-size: 17px;
+    font-size: medium;
+}
+.find-footer:hover{
+    cursor: pointer;
+    text-decoration: underline;
+}
+.find-footer{
+    float: left;
+    color: #FFF;
+    margin-top: 47px;
+    font-size: 17px;
+    transform: scale(.8,.9);
+}
+.espanol-footer:hover{
+    cursor: pointer;
+    text-decoration: underline;
+}
+.espanol-footer{
+    float: left;
+    color: #FFF;
+    margin-top: 47px;
+    margin-left: 25px;
+    font-size: 17px;
+    transform: scale(.8,.9);
+}
+.search-footer{
+    float: left;
+    margin-top: 42px;
+    margin-left: 75px;
+    width: 275px;
+    height: 39px;
+    font-size: 17px;
+    transform: scale(.8,.9);
+}
+.button-footer{
+    float: left;
+    margin-top: -41px;
+    margin-left: 1114px;
+    background-color: #d50000;
+    border: none;
+    font-family: unset;
+    font-size: 15px;
+    font-weight: 700;
+    color: #FFFFFF;
+    transform: scale(.6, .8);
+    text-transform: uppercase;
+    height: 43px;
+    width: 126px;
+
+}
+.vehicle-final{
+    float: left;
+    color: #FFF;
+    transform: scale(.8, .8);
+    font-weight: 600;
+    margin-left: 115px;
+    margin-top: 46px;
+}
+.research-final{
+    float: left;
+    color: #FFF;
+    transform: scale(.8, .8);
+    font-weight: 600;
+    margin-left: 153px;
+    margin-top: 46px;
+}
+.enthusiasts-final{
+    float: left;
+    color: #FFF;
+    transform: scale(.8, .8);
+    font-weight: 600;
+    margin-left: 136px;
+    margin-top: 46px;
+}
+.privacy-final{
+    float: left;
+    color: #FFF;
+    transform: scale(.8, .8);
+    font-weight: 600;
+    margin-left: 66px;
+    margin-top: 46px;
+}
+.support-final{
+    float: left;
+    color: #FFF;
+    transform: scale(.8, .8);
+    font-weight: 600;
+    margin-left: 115px;
+    margin-top: 46px;
+}
+.charger-final{
+    float: left;
+    color: #FFF;
+    transform: scale(0.8, .8);
+    margin-left: 118px;
+    margin-top: 15px;
+}
+.charger-final:hover{
+    cursor: pointer;
+    text-decoration: underline;
+}
+.compare-final{
+    float: left;
+    color: #FFF;
+    transform: scale(0.8, .8);
+    margin-left: 158px;
+    margin-top: 15px;
+}
+.compare-final:hover{
+    cursor: pointer;
+    text-decoration: underline;
+}
+.radford-final{
+    float: left;
+    color: #FFF;
+    transform: scale(0.8, .8);
+    margin-left: 68px;
+    margin-top: 15px;
+}
+.radford-final:hover{
+    cursor: pointer;
+    text-decoration: underline;
+}
+.policy-final{
+    float: left;
+    color: #FFF;
+    transform: scale(0.8, .8);
+    margin-left: 62px;
+    margin-top: 15px;
+}
+.policy-final:hover{
+    cursor: pointer;
+    text-decoration: underline;
+}
+.uconnect-final{
+    float: left;
+    margin-left: 148px;
+    margin-top: 14px;
+}
+.uconnect-final:hover{
+    cursor: pointer;
+}
+.challenger-final{
+    float: left;
+    color: #FFF;
+    transform: scale(0.8, .8);
+    margin-left: 116px;
+    margin-top: -20px;
+}
+.challenger-final:hover{
+    cursor: pointer;
+    text-decoration: underline;
+}
+.build-final{
+    float: left;
+    color: #FFF;
+    transform: scale(0.8, .8);
+    margin-left: 146px;
+    margin-top: -20px;
+}
+.build-final:hover{
+    cursor: pointer;
+    text-decoration: underline;
+}
+.dodge-final{
+    float: left;
+    color: #FFF;
+    transform: scale(0.8, .8);
+    margin-left: 132px;
+    margin-top: 3px;
+}
+.dodge-final:hover{
+    cursor: pointer;
+    text-decoration: underline;
+}
+.info-final{
+    float: left;
+    color: #FFF;
+    transform: scale(0.8, .8);
+    margin-left: 110px;
+    margin-top: -20px;
+}
+.info-final:hover{
+    cursor: pointer;
+    text-decoration: underline;
+}
+.sirius-final{
+    float: left;
+    margin-left: 80px;
+    margin-top: -20px;
+}
+.sirius-final:hover{
+    cursor: pointer;
+}
+.durango-final{
+    float: left;
+    color: #FFF;
+    transform: scale(0.8, .8);
+    margin-left: 118px;
+    margin-top: -20px;
+}
+.durango-final:hover{
+    cursor: pointer;
+    text-decoration: underline;
+}
+.comapre-final{
+    float: left;
+    color: #FFF;
+    transform: scale(0.8, .8);
+    margin-left: 154px;
+    margin-top: -20px;
+}
+.comapre-final:hover{
+    cursor: pointer;
+    text-decoration: underline;
+}
+.garage-final{
+    float: left;
+    color: #FFF;
+    transform: scale(0.8, .8);
+    margin-left: 328px;
+    margin-top: -20px;
+}
+.garage-final:hover{
+    cursor: pointer;
+    text-decoration: underline;
+}
+.cookie-final{
+    float: left;
+    color: #FFF;
+    transform: scale(0.8, .8);
+    margin-left: 326px;
+    margin-top: 5px;
+}
+.cookie-final:hover{
+    cursor: pointer;
+    text-decoration: underline;
+}
+.srt-final{
+    float: left;
+    color: #FFF;
+    transform: scale(0.8, .8);
+    margin-left: 120px;
+    margin-top: -20px;
+}
+.srt-final:hover{
+    cursor: pointer;
+    text-decoration: underline;
+}
+.warranty-final{
+    float: left;
+    color: #FFF;
+    transform: scale(0.8, .8);
+    margin-left: 180px;
+    margin-top: -20px;
+}
+.warranty-final:hover{
+    cursor: pointer;
+    text-decoration: underline;
+}
+.commercials-final{
+    float: left;
+    color: #FFF;
+    transform: scale(0.8, .8);
+    margin-left: 158px;
+    margin-top: -20px;
+}
+.commercials-final:hover{
+    cursor: pointer;
+    text-decoration: underline;
+}
+.fca-final{
+    float: left;
+    color: #FFF;
+    transform: scale(0.8, .8);
+    margin-left: -542px;
+    margin-top: 8px;
+}
+.fca-final:hover{
+    cursor: pointer;
+    text-decoration: underline;
+}
+.get-final{
+    float: left;
+    color: #FFF;
+    transform: scale(0.8, .8);
+    margin-left: -318px;
+    margin-top: 8px;
+}
+.get-final:hover{
+    cursor: pointer;
+    text-decoration: underline;
+}
+.dm-final{
+    float: left;
+    color: #FFF;
+    transform: scale(0.8, .8);
+    margin-left: -92px;
+    margin-top: 8px;
+}
+.dm-final:hover{
+    cursor: pointer;
+    text-decoration: underline;
+}
+.ram-final{
+    float: left;
+    color: #FFF;
+    transform: scale(0.8, .8);
+    margin-left: -548px;
+    margin-top: 34px;
+}
+.ram-final:hover{
+    cursor: pointer;
+    text-decoration: underline;
+}
+.sign-final{
+    float: left;
+    color: #FFF;
+    transform: scale(0.8, .8);
+    margin-left: -332px;
+    margin-top: 34px;
+}
+.sign-final:hover{
+    cursor: pointer;
+    text-decoration: underline;
+}
+.all-final{
+    float: left;
+    color: #FFF;
+    transform: scale(0.8, .8);
+    margin-left: -555px;
+    margin-top: 62px;
+}
+.all-final:hover{
+    cursor: pointer;
+    text-decoration: underline;
+}
+.brand-final{
+    float: left;
+    color: #FFF;
+    transform: scale(0.8, .8);
+    margin-left: -336px;
+    margin-top: 64px;
+}
+.brand-final:hover{
+    cursor: pointer;
+    text-decoration: underline;
+}
+.service-final{
+    float: left;
+    color: #FFF;
+    list-style-type: none;
+    margin-left: -582px;
+    margin-top: 115px;
+    transform: scale(0.8, .8);
+    line-height: 35px;
+}
+.heading-final{
+    font-weight: 600;
+    margin-bottom: 25px;    
+}
+.locate-final{
+    float: left;
+    color: #FFF;
+    list-style-type: none;
+    margin-left: -362px;
+    margin-top: 115px;
+    transform: scale(0.8, .8);
+    line-height: 35px;
+}
+.cost-final{
+    float: left;
+    color: #FFF;
+    list-style-type: none;
+    margin-left: -136px;
+    margin-top: 55px;
+    transform: scale(0.8, .8);
+    line-height: 35px;
+}
+.legal-final{
+    float: left;
+    color: #FFF;
+    list-style-type: none;
+    margin-left: 14px;
+    margin-top: 25px;
+    transform: scale(0.8, .8);
+    line-height: 35px;
+}
+.power-brokers{
+    float: left;
+    color: #FFF;
+    list-style-type: none;
+    margin-left: -902px;
+    margin-top: 390px;
+    transform: scale(0.8, .8);
+    line-height: 35px;
+}
+.owners-final{
+    float: left;
+    color: #FFF;
+    list-style-type: none;
+    margin-left: -450px;
+    margin-top: 340px;
+    transform: scale(0.8, .8);
+    line-height: 35px;
+}
+.heading-final1{
+    font-weight: 600;
+    float: left;
+    color: #FFF;
+    list-style-type: none;
+    transform: scale(0.8, .8);
+    margin-top: -1050px;
+    margin-left: 1018px;
+}
+.hovering-effect:hover{
+    cursor: pointer;
+    text-decoration: underline;
+}
+.garage-img{
+    float: left;
+    margin-top: -960px;
+    margin-left: 1025px;
+}
+.garage-img:hover{
+    cursor: pointer;
+}
+.social-img{
+    float: left;
+    margin-top: -1015px;
+    margin-left: 1026px;
+    color: #FFF;
+    font-size: 28px;
+    word-spacing: 10px;
+}
+.line-footer{
+    float: left;
+    width: 1090px;
+    margin-top: -275px;
+    height: 3px;
+    background-color: #918f8f;
+    margin-left: 125px;
+}
+.fca-footer-img-global{
+    float: left;
+    margin-top: -250px;
+    margin-left: 147px;
+    transform: scale(0.9, .8);
+}
+.fca-footer-img-global:hover{
+    cursor: pointer;
+}
+.fca-footer-img-global1{
+    float: left;
+    margin-top: -265px;
+    transform: scale(0.4, .4);
+    margin-left: 200px;
+}
+.fca-footer-img-global1:hover{
+    cursor: pointer;
+}
+.chrysler{
+    float: left;
+    color: #FFF;
+    list-style-type: none;
+    margin-top: -250px;
+    margin-left: 630px;
+    transform: scale(0.7, .6);
+    font-weight: bold;
+}
+.chrysler:hover{
+    cursor: pointer;
+    text-decoration: underline;
+}
+.dodge-final-footer-bottom{
+    float: left;
+    color: #FFF;
+    list-style-type: none;
+    margin-top: -250px;
+    margin-left: 710px;
+    transform: scale(0.7, .6);
+    font-weight: bold;
+}
+.dodge-final-footer-bottom:hover{
+    cursor: pointer;
+    text-decoration: underline;
+}
+.jeep-final-footer-bottom{
+    float: left;
+    color: #FFF;
+    list-style-type: none;
+    margin-top: -250px;
+    margin-left: 770px;
+    transform: scale(0.7, .6);
+    font-weight: bold;
+}
+.jeep-final-footer-bottom:hover{
+    cursor: pointer;
+    text-decoration: underline;
+}
+.ram-final-footer-bottom{
+    float: left;
+    color: #FFF;
+    list-style-type: none;
+    margin-top: -250px;
+    margin-left: 825px;
+    transform: scale(0.7, .6);
+    font-weight: bold;
+}
+.mopar-final-footer-bottom{
+    float: left;
+    color: #FFF;
+    list-style-type: none;
+    margin-top: -250px;
+    margin-left: 870px;
+    transform: scale(0.7, .6);
+    font-weight: bold;
+}
+.mopar-final-footer-bottom:hover{
+    cursor: pointer;
+    text-decoration: underline;
+}
+.ram-final-footer-bottom:hover{
+    cursor: pointer;
+    text-decoration: underline;
+}
+.fiat-final-footer-bottom{
+    float: left;
+    color: #FFF;
+    list-style-type: none;
+    margin-top: -250px;
+    margin-left: 945px;
+    transform: scale(0.7, .6);
+    font-weight: bold;
+}
+.fiat-final-footer-bottom:hover{
+    cursor: pointer;
+    text-decoration: underline;
+}
+.alfa-final-footer-bottom{
+    float: left;
+    color: #FFF;
+    list-style-type: none;
+    margin-top: -250px;
+    margin-left: 990px;
+    transform: scale(0.7, .6);
+    font-weight: bold;
+}
+.alfa-final-footer-bottom:hover{
+    cursor: pointer;
+    text-decoration: underline;
+}
+.fca-final-footer-bottom{
+    float: left;
+    color: #FFF;
+    list-style-type: none;
+    margin-top: -250px;
+    margin-left: 1080px;
+    transform: scale(0.7, .6);
+    font-weight: bold;
+}
+.fca-final-footer-bottom:hover{
+    cursor: pointer;
+    text-decoration: underline;
+}
+.final2022-footer-bottom{
+    float: left;
+    color: #FFF;
+    list-style-type: none;
+    margin-top: -215px;
+    margin-left: -15px;
+    transform: scale(0.6, .6);
+}
+.msrp-final-footer-bottom{
+    float: left;
+    color: #FFF;
+    list-style-type: none;
+    margin-top: -155px;
+    margin-left: -25px;
+    transform: scale(0.6, .6);
+}
+.fcaus-final-footer-bottom{
+    float: left;
+    color: #FFF;
+    list-style-type: none;
+    margin-top: -96px;
+    margin-left: -30px;
+    transform: scale(0.6, .6);
+}
+.last-link{
+    text-decoration: none;
+    color: #FFF;
+}
+.last-link:hover{
+    text-decoration: underline;
+    color: #FFF;
+}
